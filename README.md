@@ -14,6 +14,7 @@ This project focuses on identifying and analyzing the key factors affecting used
 - Python
 - Scikit-learn
 - Linear Regression
-- SVR, Random Forest
+- SVR
+- Random Forest
 - Matplotlib
 - Seaborn
